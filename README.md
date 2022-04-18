@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pholusho
+- 👋 Hi, I’m @Roqeeb
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Linux and Python
 - 💞️ I’m looking to collaborate on hacking labs
