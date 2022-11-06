@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Linux and Python
 - 💞️ I’m looking to collaborate on hacking labs on tryhackme or hackthebox
 -    Current goal is to push more code to github, which code you ask? 
--    i dont know, if you need a new set of eyes on any web project,pythonish
--    probably anything i'm your guy
+-    aSBkb250IGtub3csIGlmIHlvdSBuZWVkIGEgbmV3IHNldCBvZiBleWVzIG9uIGFueSB3ZWIgcHJvamVjdCxweXRob25pc2gKcHJvYmFibHkgYW55dGhpbmcgaSdtIHlvdXIgZ3V5
+-  
 -    
-- 📫 How to reach me Raeynique@gmail.com i check my mail sometimes
+- 📫 How to reach me #26J?:BF6o8>2:=]4@> i check my mail sometimes
 
 <!---
 Hi.
